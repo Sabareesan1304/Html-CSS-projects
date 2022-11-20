@@ -1,0 +1,114 @@
+/*body{
+	background-color:red;
+	height:800px;
+	width:100%;
+}*/
+
+#header{
+	/*background-color: green;*/
+	height:180px;
+	width:100%;
+	padding:10px;
+	text-align:justify;
+}
+
+#header h1{
+	font-size:35px;
+	text-decoration:underline;
+	color:green;
+}
+
+#container{
+	/*background-color:yellow;*/
+	height:500px;
+	width:100%;
+	display:flex;
+}
+.column1{
+	background-color:gray;
+	border:2px solid black;
+	margin-right:2%;
+	height:400px;
+	width:23%;
+}
+.column2{
+	background-color:white;
+	border:2px solid black;
+	margin-right:2%;
+	height:400px;
+	width:23%;
+}
+.column3{
+	background-color:gray;
+	border:2px solid black;
+	margin-right:2%;
+	height:400px;
+	width:23%;
+}
+.column4{
+	background-color:white;
+	border:2px solid black;
+	margin-right:2%;
+	height:400px;
+	width:23%;
+}
+.column1 img{
+	height:130px;
+	width:90%;
+	padding:5px;
+	margin-left:1%;
+	
+}
+.column1 h4 a{
+	text-decoration:none;
+}
+.column1 h4 a:hover{
+	color:red;
+	font-weight:bolder;
+}
+
+.column2 img{
+	height:130px;
+	width:90%;
+	padding:5px;
+	margin-left:1%;
+	
+}
+.column2 h4 a{
+	text-decoration:none;
+}
+.column2 h4 a:hover{
+	color:red;
+	font-weight:bolder;
+}
+
+.column3 img{
+	height:130px;
+	width:90%;
+	padding:5px;
+	margin-left:1%;
+	
+}
+.column3 h4 a{
+	text-decoration:none;
+}
+.column3 h4 a:hover{
+	color:red;
+	font-weight:bolder;
+}
+.column4 img{
+	height:130px;
+	width:90%;
+	padding:5px;
+	margin-left:1%;
+	
+}
+.column4 h4 a{
+	text-decoration:none;
+}
+.column4 h4 a:hover{
+	color:red;
+	font-weight:bolder;
+}
+
+	
